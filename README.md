@@ -1,5 +1,7 @@
 Pregnancy Question-Answering System with RAG
 
+NOTE THAT WHEN YOU WILL RUN THE PROJECT, YOU NEED TO GIVE IT SOME TIME TO SCRAPE THE ARTICLES
+
 This project is a Retrieval-Augmented Generation (RAG)-based system designed to help pregnant women find tailored answers to their questions. By combining cutting-edge AI technology with curated resources, the system delivers accurate, personalized, and easy-to-understand information related to pregnancy.
 
 Key Features
