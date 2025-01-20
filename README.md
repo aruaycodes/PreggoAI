@@ -84,7 +84,7 @@ OPENAI_API_KEY=your_openai_key
 
 Run the Application
 
-streamlit run app.py
+``streamlit run app.py``
 
 Usage
 
